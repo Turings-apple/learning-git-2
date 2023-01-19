@@ -47,3 +47,7 @@ span {
     color: cyan;
     font-style: italic;
 }
+
+h2 {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
